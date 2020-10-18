@@ -1,14 +1,11 @@
-~~Hi there 👋~~ fuck this I hate emojis
-
 
 Let's try it again :
 
-## Hi! 
+# Hi! 
 
-My username on github is JcdeA.
+My username on Github is JcdeA.
 
-I am a random middle schooler you probably have never heard about. 
-
+I am a random middle schooler you've probably have never heard about. 
 
 
 I am also an amateur dev by night. I don't really develop stuff that's very advanced right now, so don't expect too much from me.
@@ -20,6 +17,11 @@ I'm experienced in Python, but has some experience with other langauges such as:
   *shell scripting
   ... and more.
   
+# Environment
+I am an avid Artix Linux user
+
+ 
+
 I am also active on reddit subs such as:
   *r/linuxmasterrace
   *r/programmerhumor(so many reposts)
@@ -27,9 +29,12 @@ I am also active on reddit subs such as:
   *r/samsung
   ..and more.
   
-I am also an avid Artix Linux user(the name GNU/Linux is just stupid imo)
+  
+  
+  
+  
  
-
+ 
 # Contacts
 
 contact me here:
