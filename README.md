@@ -3,16 +3,18 @@
 
 Let's try it again :
 
-# Hi! 
+## Hi! 
 
 My username on github is JcdeA.
 
 I am a random middle schooler you probably have never heard about. 
 
+
+
 I am also an amateur dev by night. I don't really develop stuff that's very advanced right now, so don't expect too much from me.
 
+# Experience
 I'm experienced in Python, but has some experience with other langauges such as: 
-  
   *Javascript
   *little bit of C/ C++
   *shell scripting
@@ -25,9 +27,10 @@ I am also active on reddit subs such as:
   *r/samsung
   ..and more.
   
-I am also an avid Linux user(the name GNU/Linux is just stupid imo)
+I am also an avid Artix Linux user(the name GNU/Linux is just stupid imo)
  
 
+# Contacts
 
 contact me here:
   abcdefghijklmnopqrstuvwxyz1234567890@jcde.xyz(hahhahha long email go brrrrrrrr)
@@ -37,4 +40,4 @@ contact me here:
   
 Thank you for reading all of this.
 
-^I ^hope ^you ^didn't ^feel ^offended ^reading ^this
+
