@@ -1,4 +1,4 @@
-~~### Hi there 👋~~ fuck this I hate emojis
+~~Hi there 👋~~ fuck this I hate emojis
 
 
 Let's try it again :
