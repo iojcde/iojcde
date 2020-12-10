@@ -8,7 +8,7 @@ My username on Github is JcdeA.
 I am a random middle schooler you've probably have never heard about. 
 
 
-I am also an amateur dev by night. I don't really develop stuff that's very advanced right now, so don't expect too much from me.
+I am also an dev by night. I don't really develop stuff that's very advanced right now, so don't expect too much from me.
 
 # Experience
 I'm experienced in Python, but has some experience with other langauges such as: 
