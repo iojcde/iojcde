@@ -12,9 +12,9 @@ I am also an dev by night. I don't really develop stuff that's very advanced rig
 
 # Experience
 I'm experienced in Python, but has some experience with other langauges such as: 
-  *Javascript
-  *little bit of C/ C++
-  *shell scripting
+  * Javascript
+  * little bit of C/ C++
+  * shell scripting
   ... and more.
   
 # Environment
@@ -23,10 +23,10 @@ I am an avid Artix Linux user
  
 
 I am also active on reddit subs such as:
-  *r/linuxmasterrace
-  *r/programmerhumor(so many reposts)
-  *r/linux
-  *r/samsung
+  * r/linuxmasterrace
+  * r/programmerhumor(so many reposts)
+  * r/linux
+  * r/samsung
   ..and more.
   
   
