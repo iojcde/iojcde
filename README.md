@@ -37,9 +37,9 @@ I am also active on reddit subs such as:
 # Contacts
 
 contact me here:
-  jcde@jcde.xyz
-  io@8106 on Discord
-  u/jhc0767 on Reddit
+  * jcde@jcde.xyz
+  * io@8106 on Discord
+  * u/jhc0767 on Reddit
   
   
 Thank you for reading all of this.
