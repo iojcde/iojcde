@@ -24,9 +24,8 @@ I am an avid Artix Linux user
 
 I am also active on reddit subs such as:
   * r/linuxmasterrace
-  * r/programmerhumor(so many reposts)
-  * r/linux
-  * r/samsung
+  * r/privacy
+  * r/megumin
   ..and more.
   
   
@@ -38,7 +37,7 @@ I am also active on reddit subs such as:
 # Contacts
 
 contact me here:
-  abcdefghijklmnopqrstuvwxyz1234567890@jcde.xyz(hahhahha long email go brrrrrrrr)
+  jcde@jcde.xyz
   io@8106 on Discord
   u/jhc0767 on Reddit
   
