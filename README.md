@@ -1,5 +1,5 @@
 # Currently Migrating to Gitlab: 
-"https://gitlab.jcde.xyz
+https://gitlab.jcde.xyz
 
 
 # Hi! 
