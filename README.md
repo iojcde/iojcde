@@ -1,6 +1,12 @@
-<h2>Currently Migrating to Gitlab:</h2/>
+# Currently Migrating to Gitlab:
 https://gitlab.jcde.xyz
- 
+
+
+
+
+
+
+
 
 <h3><i>"Software is like sex; it's better when it's free"</i></h3>
 
