@@ -30,6 +30,8 @@ I have experience in many topics such as:
 # Environment
 I am an avid Arch linux Linux user.
 
+
+
 I am also interested in design, 
 and always strive to make great looking user interfaces that also function well
 
@@ -52,6 +54,6 @@ contact me here:
   * u/jhc0767 on Reddit
   
   
-Thank you for reading all of this.
+
 
 
