@@ -1,27 +1,31 @@
-# Currently Migrating to Gitlab: 
+<h2>Currently Migrating to Gitlab:</h2/>
 https://gitlab.jcde.xyz
+ 
+
+<h3><i>"Software is like sex; it's better when it's free"</i></h3>
+
+  \- Linus Torvalds
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=JcdeA)](https://github.com/anuraghazra/github-readme-stats)
 
-
-# Hi! 
-
-My username on Github is JcdeA.
-
-I am a random middle schooler you've probably have never heard about. 
-
-
-I am also an dev by night. I don't really develop stuff that's very advanced right now, so don't expect too much from me.
-
 # Experience
-I'm experienced in Python, but has some experience with other langauges such as: 
-  * Javascript
-  * little bit of C/ C++
-  * shell scripting
+I have experience in many topics such as:
+  (sorted by most experience)
+  * TypeScript (and JavaScript)
+  * Web design
+  * Linux
+  * Containers (Docker)
+  * Shell scripting
+  * Go
+  * Kubernetes
+
   ... and more.
   
 # Environment
-I am an avid Artix Linux user
+I am an avid Arch linux Linux user.
+
+I am also interested in design, 
+and always strive to make great looking user interfaces that also function well
 
  
 
@@ -29,12 +33,9 @@ I am also active on reddit subs such as:
   * r/linuxmasterrace
   * r/privacy
   * r/megumin
-  ..and more.
+  * r/goodanimememes and more.
   
-  
-  
-  
-  
+
  
  
 # Contacts
