@@ -3,15 +3,6 @@ https://gitlab.jcde.xyz
 
 
 
-
-
-
-
-
-<h3><i>"Software is like sex; it's better when it's free"</i></h3>
-
-  \- Linus Torvalds
-
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=JcdeA&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 # Experience
