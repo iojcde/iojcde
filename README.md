@@ -53,7 +53,7 @@ I am also active on reddit subreddits such as:
 
 I have a WIP portfolio:
 
-[Link]https://jcde.xyz)
+[Link](https://jcde.xyz)
 
 # Contacts
 
@@ -63,6 +63,7 @@ contact me here:
   * io@8106 on Discord
   * u/jhc0767 on Reddit
   
+This user has supee
   
 
 
