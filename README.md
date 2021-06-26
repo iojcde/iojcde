@@ -3,7 +3,7 @@
 
 [![My GitHub stats](https://readme-stats-jcdea.vercel.app/api?username=JcdeA&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://readme-stats-jcdea.vercel 88th 8i.app/api/top-langs/?username=jcdea&count_private=true&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://readme-stats-jcdea.vercel.app/api/top-langs/?username=jcdea&count_private=true&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Experience
