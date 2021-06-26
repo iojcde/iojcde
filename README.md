@@ -63,7 +63,7 @@ contact me here:
   * io@8106 on Discord
   * u/jhc0767 on Reddit
   
-This user has supee
+
   
 
 
