@@ -3,7 +3,7 @@
 
 [![My GitHub stats](https://readme-stats-jcdea.vercel.app/api?username=JcdeA&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://readme-stats-jcdea.vercel.app/api/top-langs/?username=jcdea&count_private=true&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://readme-stats-jcdea.vercel 88th 8i.app/api/top-langs/?username=jcdea&count_private=true&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Experience
@@ -34,10 +34,10 @@ I am also active on reddit subreddits such as:
 
 ## Some projects I have contributed to:
 <a href="https://github.com/liveduo/destack" >
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=liveduo&repo=&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=liveduo&repo=destack&theme=dark" />
 </a>
 <a href="https://github.com/team-int/web">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=team-int&repo=&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=team-int&repo=web&theme=dark" />
 </a>
 
 <a href="https://github.com/openannepro/qmk_firmware">
@@ -46,7 +46,7 @@ I am also active on reddit subreddits such as:
 
 
 <a href="https://github.com/jcdea/proxy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jcdea&repo=&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jcdea&repo=proxy&theme=dark" />
 </a>
 
 ## Portfolio
