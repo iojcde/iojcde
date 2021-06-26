@@ -53,7 +53,7 @@ I am also active on reddit subreddits such as:
 
 I have a WIP portfolio:
 
-[Linkity link link](https://jcde.xyz)
+[Link]https://jcde.xyz)
 
 # Contacts
 
