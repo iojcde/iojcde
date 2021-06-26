@@ -6,12 +6,11 @@
 [![Top Langs](https://readme-stats-jcdea.vercel.app/api/top-langs/?username=jcdea&count_private=true&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-# Experience
-I have experience in many topics such as:
+## Experience
+I have experience in many technologies such as:
   (sorted by experience)
   * TypeScript (and JavaScript)
   * Next.js
-  * Web design
   * Python
   * Rust
   * Linux
@@ -29,8 +28,32 @@ I am also active on reddit subreddits such as:
   * r/privacy
   * r/next.js
   * r/goodanimememes, and more.
-  
+ 
+ 
 
+
+## Some projects I have contributed to:
+<a href="https://github.com/liveduo/destack" >
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=liveduo&repo=&theme=dark" />
+</a>
+<a href="https://github.com/team-int/web">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=team-int&repo=&theme=dark" />
+</a>
+
+<a href="https://github.com/openannepro/qmk_firmware">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=openannepro&repo=qmk_firmware&theme=dark" />
+</a>
+
+
+<a href="https://github.com/jcdea/proxy">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jcdea&repo=&theme=dark" />
+</a>
+
+## Portfolio
+
+I have a WIP portfolio:
+
+[Linkity link link](https://jcde.xyz)
 
 # Contacts
 
