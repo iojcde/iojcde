@@ -3,8 +3,9 @@
 
 [![My GitHub stats](https://readme-stats-jcdea.vercel.app/api?username=JcdeA&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://readme-stats-jcdea.vercel.app/api/top-langs/?username=jcdea&count_private=true&theme=dark&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://readme-stats-jcdea.vercel.app/api/top-langs/?username=jcdea&count_private=true&theme=dark&layout=compact&langs_count=8&hide=css)](https://github.com/anuraghazra/github-readme-stats)
 
+The above image is not an accurate depiction of my most used languages, since it includes a lot of config files.
 
 ## Experience
 I have experience in many technologies such as:
