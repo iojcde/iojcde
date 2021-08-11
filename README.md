@@ -37,7 +37,7 @@ I am also active on reddit subreddits such as:
 <a href="https://github.com/liveduo/destack" >
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=liveduo&repo=destack" />
 </a>
-<a href="https://github.com/team-int/web">
+<a href="https://github.com/linkerd/linkerd2-proxy">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=linkerd&repo=linkerd2-proxy" />
 </a>
 
