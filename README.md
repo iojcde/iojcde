@@ -1,7 +1,8 @@
  
 # I'm JcdeA, a student and a software developer. 👋
 
-## I'm an open source software and privacy advocate.
+ I'm an open source software and privacy advocate.
+
 I  volunteer at https://fosshost.org, providing free VMs for FOSS projects.
 
 
