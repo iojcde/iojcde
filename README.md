@@ -3,7 +3,7 @@
 
  I'm an open source software and privacy advocate.
 
-I  volunteer at https://fosshost.org, providing free VMs for FOSS projects.
+I  volunteer at https://fosshost.org, a free cloud compute platform for the open source community. 
 
 
 ### Here are some projects I have contributed to:
