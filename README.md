@@ -31,7 +31,7 @@ I  volunteer at https://fosshost.org, a free cloud compute platform for the open
 
 Contact me here:
   * JcdeA on GitHub
-  * jcde@jcde.xyz
+  * io@fosshost.org
   * io@8106 on Discord
   * u/jhc0767 on Reddit
   
