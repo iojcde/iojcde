@@ -1,5 +1,5 @@
  
-# I'm JcdeA, a student and a software developer. 👋
+# I'm Jeeho, a student and a software developer. 👋
 
  I'm an open source software and privacy advocate.
 
