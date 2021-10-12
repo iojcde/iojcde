@@ -6,34 +6,14 @@
 I  volunteer at https://fosshost.org, a free cloud compute platform for the open source community. 
 
 
-### Here are some projects I have contributed to:
-<a href="https://github.com/liveduo/destack" >
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=liveduo&repo=destack" />
-</a>
-<a href="https://github.com/linkerd/linkerd2-proxy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=linkerd&repo=linkerd2-proxy" />
-</a>
-
-<a href="https://github.com/openannepro/qmk_firmware">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=openannepro&repo=qmk_firmware" />
-</a>
-
-
-<a href="https://github.com/jcdea/proxy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jcdea&repo=proxy" />
-</a>
+### Here are some projects I'm working on:
+- 🅧  [Destack](https://github.com/liveduo/destack) - Static page builder based on Next.js
+- 🦀  [Linkerd2-proxy](https://github.com/linkerd/linkerd2-proxy) - A purpose-built proxy for the Linkerd service mesh. Written in Rust.
+- 💻 [Fosshost](https://fosshost.org) - Nonprofit provider of free to use and accessible cloud-hosting services for the free and open source software community. 
+- ❤️  [Vignette](https://vignetteapp.org) - The open source VTuber software.
 
 
 [![My GitHub stats](https://readme-stats-jcdea.vercel.app/api?username=JcdeA&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
-# Contacts
-
-Contact me here:
-  * JcdeA on GitHub
-  * io@fosshost.org
-  * io@8106 on Discord
-  * u/jhc0767 on Reddit
   
 
   
