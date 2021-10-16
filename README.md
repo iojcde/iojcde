@@ -13,8 +13,7 @@ I  volunteer at https://fosshost.org, a free cloud compute platform for the open
 - ❤️  [Vignette](https://vignetteapp.org) - The open source VTuber software.
 
 
-[![My GitHub stats](https://readme-stats-jcdea.vercel.app/api?username=JcdeA&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-  
+![My GitHub stats](https://github.com/JcdeA/stats/blob/master/generated/overview.svg)
 
   
 
