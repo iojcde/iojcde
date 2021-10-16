@@ -15,7 +15,5 @@ I  volunteer at https://fosshost.org, a free cloud compute platform for the open
 
 ![My GitHub stats](https://github.com/JcdeA/stats/blob/master/generated/overview.svg)
 
-  
 
-
-
+![](https://komarev.com/ghpvc/?username=JcdeA&color=2188ff)
