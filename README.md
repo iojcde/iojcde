@@ -17,4 +17,4 @@ I  volunteer at https://fosshost.org, a free cloud compute platform for the open
 
 ![](https://komarev.com/ghpvc/?username=JcdeA&color=2188ff)
 
-Profile Picture by [kamidani](https://twitter.com/kamindani)
+Profile Picture by [kamindani](https://twitter.com/kamindani)
