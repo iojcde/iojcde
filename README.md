@@ -1,7 +1,7 @@
  
-# I'm Jeeho, a student and a software developer. 👋
+# Hey there, I'm Jeeho! 👋
+I'm a student and a software developer. 
 
- I'm an open source software and privacy advocate.
 
 I  volunteer at https://fosshost.org, a free cloud compute platform for the open source community. 
 
