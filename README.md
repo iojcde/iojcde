@@ -15,6 +15,6 @@ I  volunteer at https://fosshost.org, a free cloud compute platform for the open
 ![My GitHub stats](https://github.com/JcdeA/stats/blob/master/generated/overview.svg)
 
 
-Profile picture by [summer_tail720]https://twitter.com/summer_tail720
+Profile picture by [summer_tail720](https://twitter.com/summer_tail720)
 
 ![](https://komarev.com/ghpvc/?username=JcdeA&color=2188ff)
