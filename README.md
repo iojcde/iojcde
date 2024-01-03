@@ -4,9 +4,9 @@ I'm a interdisciplinary designer and developer.
 
 
 ### Here are some projects I've worked on:
-[PartyKit](https://github.com/partykit/partykit) - SDK designed for creating real-time collaborative applications.
+[PartyKit](https://github.com/partykit/partykit) - SDK designed for creating real-time collaborative applications
 
-[Vignette](https://vignetteapp.org) - The open source VTuber software.
+[Vignette](https://vignetteapp.org) - The open source VTuber software
 
 [Garpi (WIP)](https://garpi.vercel.app) - Personal Bookmark app / Hacker News reader
 
