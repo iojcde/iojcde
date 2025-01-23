@@ -15,6 +15,5 @@ I'm a interdisciplinary designer and developer.
 ![My GitHub stats](https://github.com/JcdeA/stats/blob/master/generated/overview.svg)
 
 
-Profile picture by [minus9k](https://twitter.com/qyminusk9)
 
 ![](https://komarev.com/ghpvc/?username=JcdeA&color=2188ff)
