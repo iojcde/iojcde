@@ -1,9 +1,7 @@
  
-## Hi there, I'm Jeeho! 👋
-I'm a interdisciplinary designer and developer. 
+hi there, i'm Jeeho. 
 
-
-### Here are some projects I've worked on:
+### Projects
 [PartyKit](https://github.com/partykit/partykit) - SDK designed for creating real-time collaborative applications
 
 [Vignette](https://vignetteapp.org) - The open source VTuber software
