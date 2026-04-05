@@ -1,5 +1,7 @@
  
-hi there, i'm Jeeho. 
+hi there, i'm jeeho. 
+
+i'm interested in distributed systems and network engineering. i also design websites for fun.
 
 ### Previous Projects
 [PartyKit](https://github.com/partykit/partykit) - SDK designed for creating real-time collaborative applications
