@@ -6,6 +6,8 @@ i'm interested in distributed systems and network engineering. i also design web
 ### Previous Projects
 [PartyKit](https://github.com/partykit/partykit) - SDK designed for creating real-time collaborative applications
 
+[fosshostorg/aarch64] AArch64 VPS service for open-source organizations.
+
 [Vignette](https://github.com/vignetteapp/vignette) - The open source VTuber software
 
 [Destack](https://github.com/liveduo/destack) - Static page builder based on Next.js
