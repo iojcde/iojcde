@@ -4,7 +4,7 @@ hi there, i'm jeeho.
 i'm interested in distributed systems and network engineering. i also design websites for fun.
 
 ### previous projects
-[partyKit](https://github.com/partykit/partykit) - sdk for creating real-time multiplayer applications
+[partykit](https://github.com/partykit/partykit) - sdk for creating real-time multiplayer applications
 
 [fosshostorg/aarch64](https://github.com/fosshostorg/aarch64) aarch64 VPS service for open-source organizations.
 
